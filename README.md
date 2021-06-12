@@ -1,5 +1,7 @@
 # ReproductorMP3
-https://github.com/Jeziel-Guiev/ReproductorMP3VueJs/blob/main/src/assets/vista1.png
+
+![alt text]
+(https://github.com/Jeziel-Guiev/ReproductorMP3VueJs/blob/main/src/assets/vista1.png)
 ## Project setup
 ```
 npm install
